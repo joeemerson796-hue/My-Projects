@@ -1,0 +1,23 @@
+{
+  "best_model": "tfidf_svm",
+  "all_results": {
+    "tfidf_logreg": {
+      "accuracy": 0.7357,
+      "f1_weighted": 0.7357,
+      "f1_macro": 0.7359,
+      "precision_weighted": 0.7364,
+      "recall_weighted": 0.7357
+    },
+    "tfidf_svm": {
+      "accuracy": 0.7452,
+      "f1_weighted": 0.7437,
+      "f1_macro": 0.7439,
+      "precision_weighted": 0.7437,
+      "recall_weighted": 0.7452
+    },
+    "bert_distilbert": {
+      "f1_weighted": 0.6186,
+      "accuracy": 0.0
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tfidf_logreg": {
+    "test_f1": 0.7357440677382816,
+    "model_path": "/workspace/document_classification/models/tfidf_logreg.pkl",
+    "best_params": {
+      "C": 10,
+      "penalty": "l2"
+    }
+  },
+  "tfidf_svm": {
+    "test_f1": 0.7436738978022841,
+    "model_path": "/workspace/document_classification/models/tfidf_svm.pkl",
+    "best_params": {
+      "C": 0.1
+    }
+  },
+  "bert_distilbert": {
+    "test_f1": 0.6186248215575302,
+    "model_path": "/workspace/document_classification/models/bert_model"
+  }
+}

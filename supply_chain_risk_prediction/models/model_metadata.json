@@ -1,0 +1,36 @@
+{
+  "best_model": "logistic_regression",
+  "feature_names": [
+    "supplier_country",
+    "product_category",
+    "shipping_mode",
+    "payment_terms",
+    "on_time_delivery_rate",
+    "defect_rate",
+    "lead_time_days",
+    "order_quantity",
+    "unit_price",
+    "supplier_rating",
+    "financial_health_score",
+    "years_in_business",
+    "num_past_orders",
+    "avg_quality_score",
+    "distance_km",
+    "num_returns",
+    "compliance_score",
+    "total_order_value",
+    "return_rate",
+    "reliability_index",
+    "stability_score",
+    "delivery_efficiency",
+    "quality_rating_product"
+  ],
+  "test_metrics": {
+    "accuracy": 0.847,
+    "f1_weighted": 0.84994918170165,
+    "f1_macro": 0.8295252292405298,
+    "precision_weighted": 0.8553650668739385,
+    "recall_weighted": 0.847,
+    "roc_auc_ovr": 0.9606686531536549
+  }
+}

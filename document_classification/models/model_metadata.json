@@ -1,0 +1,14 @@
+{
+  "best_model": "tfidf_svm",
+  "num_classes": 8,
+  "categories": [
+    "comp.graphics",
+    "comp.sys.ibm.pc.hardware",
+    "comp.sys.mac.hardware",
+    "sci.crypt",
+    "sci.electronics",
+    "sci.med",
+    "sci.space",
+    "comp.os.ms-windows.misc"
+  ]
+}
